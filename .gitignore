@@ -1,0 +1,19 @@
+# Build files
+/build/
+/cmake-build-*/
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+*.out
+
+# IDE settings
+.vscode/
+.idea/
+
+# Presentation uploaded separately through GitHub Releases
+*.pptx
