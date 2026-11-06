@@ -11,6 +11,7 @@ A C++ visualization of the ferromagnetic two-dimensional square-lattice Ising mo
 ## 1. The Ising Model
 
 ### It is suggested to go through the Ising Model.pptx file for better explanation of the theory.
+(https://drive.google.com/drive/folders/1d48qTuPPeo4O1JXE9KZo5TCGXTLsHqPG?usp=sharing)
 
 
 
